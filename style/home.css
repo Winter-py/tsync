@@ -1,13 +1,24 @@
-nav {
+ nav {
     display: block;
-    background-color: azure;
+    background-color: rgb(70, 177, 177);
   }
 
 
   body {
-    background-color: rgb(69, 69, 69);
+    background-color: rgb(50, 50, 50);
   }
 
   input {
     width: 200px;
   }
+
+  h2 {
+    color: aliceblue;
+  }
+
+  label {
+    color: aliceblue;
+  }
+
+  
+  
