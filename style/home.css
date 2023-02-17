@@ -1,0 +1,13 @@
+nav {
+    display: block;
+    background-color: azure;
+  }
+
+
+  body {
+    background-color: rgb(69, 69, 69);
+  }
+
+  input {
+    width: 200px;
+  }
