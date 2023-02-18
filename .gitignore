@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #workspace
-.code-workspace
+Web.code-workspace
